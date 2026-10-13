@@ -1,0 +1,43 @@
+{
+  "type": "IDEA",
+  "subtype": "ROOT",
+  "name": "EDF's balanced energy strategy for the future",
+  "description": "Secure affordable and environmentally sustainable energy.",
+  "id": "root",
+  "children": [
+    {
+      "type": "ROLE",
+      "subtype": "ROLE",
+      "name": "EDF",
+      "id": "edf",
+      "children": [
+        {
+          "type": "IDEA",
+          "subtype": "GOAL",
+          "name": "Predictable and Stable Energy Costs for Households",
+          "description": "Shield households from sudden electricity price shocks.",
+          "id": "stable-costs",
+          "children": [
+            {
+              "type": "IDEA",
+              "subtype": "BARRIER",
+              "name": "Middle East Conflict Disrupts Natural Gas Supply",
+              "description": "Conflict can destabilize gas availability and prices.",
+              "id": "gas-barrier",
+              "children": [
+                {
+                  "type": "SOLUTION",
+                  "subtype": "SOLUTION",
+                  "name": "Accelerated Advanced Modular Reactor Deployment",
+                  "description": "Reduce natural-gas dependence through advanced modular reactors.",
+                  "id": "amr-solution",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

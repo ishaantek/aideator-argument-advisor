@@ -19,15 +19,13 @@ No API key is included in this repository. AIdeator supplies its own key via the
 
 ```bash
 python -m pip install \
-  "git+https://github.com/ishaantek/mit-cci-argument-project.git@argument-advisor-python"
+  "git+https://github.com/ishaantek/aideator-argument-advisor.git"
 ```
 
 For local development:
 
 ```bash
-git clone --branch argument-advisor-python --single-branch \
-  https://github.com/ishaantek/mit-cci-argument-project.git \
-  aideator-argument-advisor
+git clone https://github.com/ishaantek/aideator-argument-advisor.git
 cd aideator-argument-advisor
 python -m venv .venv
 source .venv/bin/activate

@@ -1,4 +1,66 @@
-# AIdeator Argument Advisor — Python integration
+# AIdeator Argument Advisor
+
+Two pieces, in one repository:
+
+1. **`web/`** — the full interactive demo (React + Express). Host this if you
+   want the live Argument Advisor UI.
+2. **`argument_advisor/`** — the Python function AIdeator can call from its own
+   backend, using your own OpenAI key.
+
+No API key is stored in this repository.
+
+## Host the web demo yourselves
+
+The public demo at `argumentadvisor.ishaangarg.com` currently serves the UI
+without the Node API, so classify/coach calls fail. The reliable setup is to
+run `web/` as one Node process that serves both the frontend and `/api`.
+
+Required environment variable:
+
+```text
+OPENAI_API_KEY=your_key
+```
+
+Optional:
+
+```text
+OPENAI_MODEL=gpt-5-mini
+PORT=8787
+```
+
+### Local production
+
+```bash
+cd web
+npm ci
+npm run build
+OPENAI_API_KEY=your_key npm start
+```
+
+Open `http://localhost:8787`. Check `GET /api/health`. If `hasApiKey` is
+`false`, the key is missing and coaching will fail.
+
+### Docker
+
+```bash
+cd web
+docker build -t argument-advisor .
+docker run --rm -p 8787:8787 -e OPENAI_API_KEY=your_key argument-advisor
+```
+
+### Render / Railway / Fly
+
+Point the service at the `web/` directory:
+
+- **Build:** `npm ci && npm run build`
+- **Start:** `npm start`
+- **Env:** `NODE_ENV=production`, `OPENAI_API_KEY`, optional `OPENAI_MODEL`
+
+A Render blueprint is in [`render.yaml`](render.yaml).
+
+---
+
+## Python integration
 
 A small Python package that lets AIdeator add an interactive Argument Advisor to
 any entity in a nested GBS map.

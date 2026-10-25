@@ -1,0 +1,317 @@
+{
+    "type": "IDEA",
+    "subtype": "ROOT",
+    "name": "EDF's balanced energy strategy for the future",
+    "description": "This mission guides EDF in developing a balanced electricity generation strategy that secures energy for all, ensuring affordability and long-term environmental sustainability. The goal is to meet current energy needs responsibly while future-proofing reliable power provision.",
+    "id": "E-1TTSJ6W-45",
+    "author": "NIL",
+    "children": [
+        {
+            "type": "ROLE",
+            "subtype": "ROLE",
+            "name": "EDF",
+            "id": "E-1TVN2AU-5",
+            "author": "NIL",
+            "children": [
+                {
+                    "type": "GOAL",
+                    "subtype": "GOAL",
+                    "name": "Strengthen EDF's Financial Resilience",
+                    "description": "Ensure the long-term financial viability and strategic resilience of EDF as a national champion for energy security and transition. This involves maintaining a strong balance sheet and operational capacity to meet evolving energy demands and regulatory imperatives, thereby safeguarding national energy independence and competitiveness.",
+                    "id": "E-1TV2RDU-1",
+                    "author": "NIL",
+                    "children": [
+                        {
+                            "type": "SOLUTION",
+                            "subtype": "SOLUTION",
+                            "name": "National Energy Stewardship Program",
+                            "description": "Establish a 'National Energy Stewardship Program' where the French Government, in partnership with EDF, creates long-term, demand-assured off-take contracts for a significant portion of EDF's generation capacity, particularly its low-carbon assets. This program would involve the government actively managing strategic energy reserves and industrial energy needs, providing EDF with guaranteed revenue streams and a clear off-take for essential energy supply, thereby de-risking investment and improving financial predictability.",
+                            "id": "E-1TV2RDU-4",
+                            "author": "NIL"
+                        },
+                        {
+                            "type": "SOLUTION",
+                            "subtype": "SOLUTION",
+                            "name": "Strategic Energy Futures Exchange",
+                            "description": "Create a 'Strategic Energy Futures Exchange' where EDF can hedge long-term energy price volatility and secure future revenue streams through bespoke contracts with the French Government and other major industrial off-takers. This exchange would allow for pre-defined price floors and caps for key generation types, stabilizing cash flows and de-risking future investment decisions.",
+                            "id": "E-1TV2RDU-3",
+                            "author": "NIL"
+                        },
+                        {
+                            "type": "SOLUTION",
+                            "subtype": "SOLUTION",
+                            "name": "Energy Transition Infrastructure Fund",
+                            "description": "Establish a dedicated 'Energy Transition Infrastructure Fund' (ETIF) co-financed by the French Government and private institutional investors. This fund would be ring-fenced to finance critical, long-term investments in low-carbon generation (e.g., advanced nuclear, renewables, storage) and grid modernization, de-risking EDF's balance sheet from solely bearing these capital-intensive projects and improving its credit profile.",
+                            "id": "E-1TV2RDU-2",
+                            "author": "NIL",
+                            "children": [
+                                {
+                                    "type": "QUESTION",
+                                    "subtype": "QUESTION",
+                                    "name": "how can we govern ETIF effectively?",
+                                    "description": "To ensure the Energy Transition Infrastructure Fund effectively strengthens EDF's financial resilience and supports the French Government's energy transition goals, what specific governance and operational mechanisms are essential to de-risk investments, attract private capital, and guarantee long-term strategic alignment between EDF and the government?",
+                                    "id": "E-1TV4KTN-2",
+                                    "author": "NIL"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "IDEA",
+                    "subtype": "GOAL",
+                    "name": "Predictable and Stable Energy Costs for Households",
+                    "description": "French citizens aim for an energy future where household electricity bills are stable and predictable, shielding them from sudden price shocks. This predictability should stem from EDF's balanced energy strategy, ensuring long-term affordability alongside reliable and sustainable energy provision.",
+                    "id": "E-1TUHTUZ-22",
+                    "author": "NIL",
+                    "children": [
+                        {
+                            "type": "IDEA",
+                            "subtype": "BARRIER",
+                            "name": "Middle East Conflict Disrupts Natural Gas Supply",
+                            "description": "Middle East conflict produces disruptions in natural gas supply and prices.  This conflict can lead to significant instability in the global natural gas market. Such disruptions can directly impact the availability and cost of natural gas, which in turn affects electricity generation prices and, consequently, household energy bills.",
+                            "id": "E-1TUHTUZ-23",
+                            "author": "NIL",
+                            "children": [
+                                {
+                                    "type": "CAUSE",
+                                    "subtype": "CAUSE",
+                                    "name": "Heightened Middle East Geopolitical Instability",
+                                    "description": "Escalating regional tensions and potential direct military confrontations in key natural gas-producing nations or along major transit routes within the Middle East could trigger significant supply chain interruptions.  This scenario can lead to panic in global markets and immediate price hikes, directly impacting the availability and cost of natural gas for EDF.",
+                                    "id": "E-1TV4KTN-3",
+                                    "author": "NIL",
+                                    "children": [
+                                        {
+                                            "type": "CAUSE",
+                                            "subtype": "CAUSE",
+                                            "name": "Great Power Entanglement in Regional Disputes",
+                                            "description": "The increasing entanglement of major global powers in regional Middle Eastern disputes, driven by complex economic interests and strategic alliances, creates a volatile environment. As external actors become more involved in supporting specific factions or pursuing their own agendas, the risk of miscalculation and escalation into broader regional conflicts significantly increases, directly fueling geopolitical instability.",
+                                            "id": "E-1TV4KTN-10",
+                                            "author": "NIL"
+                                        },
+                                        {
+                                            "type": "CAUSE",
+                                            "subtype": "CAUSE",
+                                            "name": "LNG Infrastructure Vulnerability and Expansion",
+                                            "description": "The increasing strategic importance of liquefied natural gas (LNG) transit routes and terminals in the Middle East, coupled with the growing number of state and non-state actors with the capability to disrupt these assets, creates a fertile ground for instability. Potential attacks or blockades on these critical energy infrastructure points could trigger immediate global supply shocks, escalating regional tensions.",
+                                            "id": "E-1TV4KTN-9",
+                                            "author": "NIL"
+                                        },
+                                        {
+                                            "type": "CAUSE",
+                                            "subtype": "CAUSE",
+                                            "name": "Weaponization of Water Resources",
+                                            "description": "The increasing weaponization of water resources, particularly among riparian states sharing critical river systems like the Tigris-Euphrates or Jordan River, can escalate tensions. Unilateral dam construction, diversion projects, or threats to water flow, often linked to broader geopolitical disputes or internal stability concerns, can directly fuel regional instability. This has a large impact because water scarcity is a fundamental survival issue, and its manipulation can create widespread displacement, economic hardship, and ignite proxy conflicts that destabilize the entire region.",
+                                            "id": "E-1TV4KTN-8",
+                                            "author": "NIL"
+                                        },
+                                        {
+                                            "type": "CAUSE",
+                                            "subtype": "CAUSE",
+                                            "name": "Digital Infrastructure Vulnerabilities in the Middle East",
+                                            "description": "The increasing reliance on critical digital infrastructure, such as undersea fiber optic cables and satellite communication networks, within the Middle East creates a new and potent vector for geopolitical instability. Any disruption, intentional or accidental, to these vital lifelines could trigger cascading economic and political crises across the region and globally.",
+                                            "id": "E-1TV4KTN-7",
+                                            "author": "NIL"
+                                        },
+                                        {
+                                            "type": "CAUSE",
+                                            "subtype": "CAUSE",
+                                            "name": "Rising Regional Power Competition",
+                                            "description": "Increasing competition and assertiveness from emerging regional powers, particularly Iran and Turkey, are creating new fault lines and exacerbating existing rivalries in the Middle East. This competition manifests through proxy conflicts, arms races, and assertive diplomatic maneuvering, directly contributing to heightened geopolitical instability.",
+                                            "id": "E-1TV4KTN-6",
+                                            "author": "NIL"
+                                        },
+                                        {
+                                            "type": "SOLUTION",
+                                            "subtype": "SOLUTION",
+                                            "name": "Diversified Global Energy Alliances",
+                                            "description": "Establish long-term, diversified energy partnerships beyond the Middle East, focusing on regions with stable political landscapes and abundant renewable or less volatile fossil fuel resources. This includes exploring and securing contracts for liquefied natural gas (LNG) from North America and Australia, as well as investing in strategic energy infrastructure and research for alternative fuel sources in politically stable allied nations.",
+                                            "id": "E-1TV4KTN-5",
+                                            "author": "NIL"
+                                        },
+                                        {
+                                            "type": "SOLUTION",
+                                            "subtype": "SOLUTION",
+                                            "name": "Diversified Energy Security & Strategic Storage",
+                                            "description": "Accelerate investments in diversified, non-fossil fuel energy sources within France and the EU, coupled with enhanced strategic gas storage infrastructure. This dual approach mitigates direct reliance on volatile Middle Eastern gas supplies by increasing domestic renewable and nuclear capacity while building resilience against potential supply shocks through robust storage.",
+                                            "id": "E-1TV4KTN-4",
+                                            "author": "NIL"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "SOLUTION",
+                                    "subtype": "SOLUTION",
+                                    "name": "Accelerated Advanced Modular Reactor Deployment",
+                                    "description": "EDF will accelerate its investment in and deployment of advanced modular reactors (AMRs) for electricity generation. This diversification away from natural gas dependence will create a more resilient and predictable energy supply, insulating French households from volatile global gas markets.",
+                                    "id": "E-1TV4KTN-1",
+                                    "author": "NIL"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "IDEA",
+                    "subtype": "GOAL",
+                    "name": "Empowered Consumers in a Sustainable Energy Future",
+                    "description": "French citizens desire to be active participants and informed beneficiaries of EDF's balanced energy strategy. They seek assurance that the energy transition enhances their quality of life and empowers them to make sustainable choices.",
+                    "id": "E-1TUHTUZ-21",
+                    "author": "NIL"
+                },
+                {
+                    "type": "IDEA",
+                    "subtype": "GOAL",
+                    "name": "Reliable, Affordable, and Sustainable Energy for All",
+                    "description": "French citizens desire a future where they have consistent access to electricity that is both economically accessible and environmentally responsible. This means a stable energy supply that supports their daily lives and future aspirations without placing an undue burden on their finances or the planet.",
+                    "id": "E-1TUHTUZ-20",
+                    "author": "NIL"
+                },
+                {
+                    "type": "IDEA",
+                    "subtype": "GOAL",
+                    "name": "Accelerated Decarbonization of French Electricity Generation",
+                    "description": "To significantly accelerate the decarbonization of EDF's electricity generation portfolio, ensuring it meets and exceeds national and EU climate targets while maintaining stable, competitive prices for French consumers and businesses.&#13; &#13; <b>why is the goal important</b> This goal is crucial for the Ministry to fulfill its mandate of developing and implementing effective environmental and energy policies. It directly supports France's commitment to combating climate change, enhancing energy independence, and promoting sustainable development, all while safeguarding economic stability and social equity in energy access..&#13; &#13; <b>what are some good metrics for measuring how well we have succeeded at this goal?</b> Key metrics include the year-on-year reduction in the carbon intensity of EDF's electricity generation (measured in gCO2e/kWh), the percentage of electricity generated from renewable and low-carbon sources, the stability and competitiveness of electricity prices compared to EU benchmarks, and the achievement of specific emissions reduction targets outlined in national climate plans and EU directives..",
+                    "id": "E-1TUHTUZ-3",
+                    "author": "NIL",
+                    "children": [
+                        {
+                            "type": "IDEA",
+                            "subtype": "SOLUTION",
+                            "name": "AI-Optimized Green Hydrogen-Nuclear Nexus",
+                            "description": "Implement an AI-driven platform that dynamically optimizes the combined operation of EDF's existing nuclear fleet and new green hydrogen production facilities. This system will forecast electricity demand and renewable availability to strategically shift nuclear power to baseload and low-carbon hydrogen production when renewables are abundant, ensuring stable, competitive prices while accelerating decarbonization.&#13; &#13; <b>What are the core values / principles for that stakeholder?</b> Decarbonization, energy independence, climate resilience, sustainable development, and social equity in energy access, aligned with EU climate targets and national commitments..&#13; &#13; <b>why is the goal important</b> Crucial for fulfilling the Ministry's mandate, supporting climate change combat, enhancing energy independence, promoting sustainable development, and safeguarding economic stability and social equity..&#13; &#13; <b>what are some good metrics for measuring how well we have succeeded at this goal?</b> Year-on-year reduction in carbon intensity (gCO2e/kWh), percentage of renewable/low-carbon generation, electricity price stability/competitiveness vs. EU benchmarks, and achievement of national/EU emissions reduction targets..",
+                            "id": "E-1TUHTUZ-5",
+                            "author": "NIL"
+                        },
+                        {
+                            "type": "IDEA",
+                            "subtype": "BARRIER",
+                            "name": "Corrupt Politicians Receiving Fossil Fuel Kickbacks",
+                            "description": "Corrupt politicians receiving kickbacks from fossil fuel companies poses a significant barrier to achieving accelerated decarbonization of French electricity generation.&#13; &#13; This corruption can manifest in various ways, such as lobbying efforts that undermine renewable energy policies, the preferential treatment of fossil fuel projects over cleaner alternatives, or the obstruction of legislation designed to phase out carbon-intensive energy sources. The financial incentives provided to these politicians can distort decision-making processes, leading to policies that prioritize short-term financial gains for fossil fuel companies over long-term environmental sustainability and the achievement of climate targets. This ultimately impedes the Ministry's ability to fulfill its mandate of implementing effective environmental and energy policies that align with national and EU climate goals, while also impacting energy independence and sustainable development.",
+                            "id": "E-1TUHTUZ-4",
+                            "author": "NIL",
+                            "children": [
+                                {
+                                    "type": "IDEA",
+                                    "subtype": "SOLUTION",
+                                    "name": "Independent Ethical Oversight & Whistleblower Empowerment",
+                                    "description": "Establish an independent, publicly funded ethical oversight body with investigative powers to monitor political decision-making in the energy sector. This body would be empowered to receive and rigorously investigate whistleblower reports regarding corrupt practices, with strong legal protections and incentives for those who come forward.&#13; &#13; <b>The ministry prioritizes decarbonization, energy independence, climate resilience, sustainable development, and social equity in energy access. They are guided by EU climate targets and national commitments to combat climate change while ensuring affordable energy for citizens and businesses.</b> This solution directly addresses the core values by creating a transparent and accountable system that fights corruption, thereby safeguarding progress towards decarbonization, energy independence, and sustainable development, while also helping to ensure affordable and equitable energy access..&#13; &#13; <b>To significantly accelerate the decarbonization of EDF's electricity generation portfolio, ensuring it meets and exceeds national and EU climate targets while maintaining stable, competitive prices for French consumers and businesses.</b> By mitigating the influence of corrupt decision-making driven by fossil fuel kickbacks, this solution removes a critical impediment to accelerated decarbonization, enabling policies to favor cleaner energy sources and thus achieve ambitious climate targets at stable prices..&#13; &#13; <b>This goal is crucial for the Ministry to fulfill its mandate of developing and implementing effective environmental and energy policies. It directly supports France's commitment to combating climate change, enhancing energy independence, and promoting sustainable development, all while safeguarding economic stability and social equity in energy access.</b> This solution empowers the Ministry by creating a mechanism to ensure that policy decisions are driven by the public interest and climate goals, rather than illicit financial incentives, thereby bolstering its ability to enact and implement effective environmental and energy policies..&#13; &#13; <b>Key metrics include the year-on-year reduction in the carbon intensity of EDF's electricity generation (measured in gCO2e/kWh), the percentage of electricity generated from renewable and low-carbon sources, the stability and competitiveness of electricity prices compared to EU benchmarks, and the achievement of specific emissions reduction targets outlined in national climate plans and EU directives.</b> This solution's success will be reflected in improvements across all listed metrics by ensuring that policy and investment decisions are aligned with decarbonization objectives, rather than being compromised by corruption..",
+                                    "id": "E-1TUHTUZ-6",
+                                    "author": "NIL",
+                                    "children": [
+                                        {
+                                            "type": "IDEA",
+                                            "subtype": "BARRIER",
+                                            "name": "Fragmented and Slow Regulatory Approval Processes",
+                                            "description": "Lengthy and complex administrative procedures for approving new clean energy infrastructure projects, including renewable energy farms and grid upgrades, create significant delays and increase costs. This inertia, often exacerbated by bureaucratic silos and overlapping jurisdictions, can stifle the pace of decarbonization even when political will exists.&#13; &#13; <b>how does the barrier undercut success of the solution?</b> The solution aims to accelerate decarbonization by implementing ethical oversight and empowering whistleblowers to combat corruption. However, even with a corruption-free environment, the inherent slowness of regulatory approvals for new clean energy projects directly obstructs the physical deployment of these technologies, thus slowing down the progress towards decarbonization targets..&#13; &#13; <b>why is the barrier important i.e. high impact?</b> This barrier is high impact because it directly impedes the physical realization of the accelerated decarbonization goal. Even with strong ethical governance, if permits for wind farms, solar installations, or necessary grid enhancements take years to secure, the speed at which EDF can shift its generation mix is severely limited, jeopardizing national and EU climate commitments and prolonging reliance on carbon-intensive sources..",
+                                            "id": "E-1TUHTUZ-12",
+                                            "author": "NIL",
+                                            "children": [
+                                                {
+                                                    "type": "IDEA",
+                                                    "subtype": "CAUSE",
+                                                    "name": "Lack of unified planning across energy infrastructure",
+                                                    "description": "Fragmented planning and decision-making processes across different energy infrastructure sectors, including generation, transmission, and distribution, hinder efficient and integrated development. This lack of synergy means that the build-out of new clean energy generation capacity may not be adequately supported by grid modernization or vice-versa, creating bottlenecks.&#13; &#13; <b>how does the cause lead to the existence of the barrier?</b> When planning for electricity generation, grid capacity, and transmission lines are siloed, it creates a disconnect where new renewable energy sources might be developed but cannot be efficiently integrated into the existing grid due to a lack of coordinated upgrades. This leads to delays and inefficiencies in deploying clean electricity at the scale required, thus contributing to the fragmented and slow regulatory approval process for new infrastructure..&#13; &#13; <b>why is the cause important i.e. high impact?</b> This cause is high impact because it directly undermines the potential for a rapid and seamless transition to clean electricity. Without a holistic approach to energy infrastructure planning, even with streamlined approvals for individual components, the overall pace of decarbonization will be significantly slowed down by the inability to effectively connect and utilize new clean energy sources across the entire system. This impedes the achievement of ambitious climate targets and can lead to higher costs due to inefficient, piecemeal investments..",
+                                                    "id": "E-1TUHTUZ-15",
+                                                    "author": "NIL",
+                                                    "children": [
+                                                        {
+                                                            "type": "IDEA",
+                                                            "subtype": "SOLUTION",
+                                                            "name": "Integrated Smart Planning & Digital Permitting Hub",
+                                                            "description": "Establish a unified digital platform that integrates national and regional energy infrastructure planning, encompassing generation, transmission, and distribution. This platform will utilize AI-driven scenario modeling to optimize development pathways and streamline regulatory approvals through a single digital portal for all project permits.&#13; &#13; <b>how does the cause lead to the existence of the barrier?</b> By creating a single, AI-powered platform that integrates all energy infrastructure planning and regulatory processes, it eliminates silos and enables coordinated, efficient decision-making for new clean energy projects..&#13; &#13; <b>why is the cause important i.e. high impact?</b> This integrated approach ensures that the deployment of new clean energy generation is perfectly synchronized with necessary grid upgrades and transmission capacity, dramatically accelerating the speed and efficiency of decarbonization and preventing bottlenecks..",
+                                                            "id": "E-1TUHTUZ-16",
+                                                            "author": "NIL"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "IDEA",
+                                            "subtype": "QUESTION",
+                                            "name": "How can we integrate ethical oversight into EDF's operations?",
+                                            "description": "Given the proposed independent ethical oversight body to combat corrupt politicians receiving fossil fuel kickbacks, how can we proactively integrate this oversight mechanism directly into EDF's internal decision-making and operational processes to prevent such corruption from influencing the company's energy generation strategies?&#13; &#13; <b>How can we ensure the oversight body is truly independent?</b> Ensure diverse funding sources not reliant on government appropriations, establish a multi-stakeholder board with representatives from civil society, academia, and international anti-corruption organizations, and implement robust conflict-of-interest regulations for board members and staff. Additionally, define clear, independent appointment processes for oversight body leadership, perhaps involving judicial or parliamentary supermajority votes..",
+                                            "id": "E-1TUHTUZ-10",
+                                            "author": "NIL",
+                                            "children": [
+                                                {
+                                                    "type": "IDEA",
+                                                    "subtype": "ANSWER",
+                                                    "name": "Integrate ethical oversight within EDF's operations",
+                                                    "description": "To integrate ethical oversight into EDF's operations, establish dedicated internal ethics committees that report directly to the board, implement transparent procurement processes with independent audits, and foster a strong ethical culture through mandatory training and clear reporting channels. This ensures accountability and proactively prevents corruption from influencing strategic decisions and operational execution.&#13; &#13; <b>How can we integrate ethical oversight into EDF's operations?</b> Integrate ethical oversight by establishing internal ethics committees with direct reporting lines to the EDF board, mandating transparent and independently auditable procurement processes, and implementing comprehensive ethics training programs for all employees. Foster a robust whistleblowing culture with guaranteed anonymity and protection against retaliation, allowing for swift and impartial investigation of any concerns..&#13; &#13; <b>How can we ensure the oversight body is truly independent?</b> Ensure the oversight body's independence through diverse and stable funding streams not subject to political interference, such as a dedicated levy on energy sector profits or international grants. Appoint a multi-stakeholder governing board comprising reputable individuals from civil society, academia, and international anti-corruption bodies, with stringent conflict-of-interest policies and transparent, merit-based selection processes for leadership..",
+                                                    "id": "E-1TUHTUZ-11",
+                                                    "author": "NIL",
+                                                    "children": [
+                                                        {
+                                                            "type": "IDEA",
+                                                            "subtype": "QUESTION",
+                                                            "name": "How can we ensure ethical oversight is effective?",
+                                                            "description": "Given the importance of integrating ethical oversight into EDF's operations, how can we ensure this oversight is not just a procedural formality but genuinely effective in preventing corruption and promoting the Ministry's goals?&#13; &#13; <b>How can we integrate ethical oversight into EDF's operations?</b> Integrate ethical oversight by establishing internal ethics committees with direct reporting lines to the EDF board, mandating transparent and independently auditable procurement processes, and implementing comprehensive ethics training programs for all employees. Foster a robust whistleblowing culture with guaranteed anonymity and protection against retaliation, allowing for swift and impartial investigation of any concerns..&#13; &#13; <b>How can we ensure the oversight body is truly independent?</b> Ensure the oversight body's independence through diverse and stable funding streams not subject to political interference, such as a dedicated levy on energy sector profits or international grants. Appoint a multi-stakeholder governing board comprising reputable individuals from civil society, academia, and international anti-corruption bodies, with stringent conflict-of-interest policies and transparent, merit-based selection processes for leadership..",
+                                                            "id": "E-1TUHTUZ-13",
+                                                            "author": "NIL",
+                                                            "children": [
+                                                                {
+                                                                    "type": "IDEA",
+                                                                    "subtype": "ANSWER",
+                                                                    "name": "Embed internal ethics & empower whistleblowers",
+                                                                    "description": "Establish internal ethics committees reporting to EDF's board and implement transparent procurement with independent audits. Foster a strong ethical culture through training and protected whistleblowing channels for swift investigation of concerns.&#13; &#13; <b>How can we integrate ethical oversight into EDF's operations?</b> Establish dedicated internal ethics committees with direct reporting lines to the EDF board. Mandate transparent, independently auditable procurement processes and implement comprehensive ethics training programs for all employees. Foster a robust whistleblowing culture with guaranteed anonymity and protection against retaliation, allowing for swift and impartial investigation of any concerns..&#13; &#13; <b>How can we ensure the oversight body is truly independent?</b> Ensure the oversight body's independence through diverse and stable funding streams not subject to political interference, such as a dedicated levy on energy sector profits or international grants. Appoint a multi-stakeholder governing board comprising reputable individuals from civil society, academia, and international anti-corruption bodies, with stringent conflict-of-interest policies and transparent, merit-based selection processes for leadership..&#13; &#13; <b>How can we ensure ethical oversight is effective?</b> Effectiveness is ensured through clear mandates for internal ethics committees to proactively identify and mitigate risks, regular independent audits of procurement and decision-making processes, and robust, responsive mechanisms for investigating whistleblower reports. Continuous training and a culture of integrity reinforce these efforts, ensuring alignment with the Ministry's decarbonization goals and public interest..",
+                                                                    "id": "E-1TUHTUZ-14",
+                                                                    "author": "NIL"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "IDEA",
+                                            "subtype": "QUESTION",
+                                            "name": "How can we empower whistleblowers effectively?",
+                                            "description": "Given the critical role of whistleblowers in combating corruption, how can we ensure their protection and incentivize their coming forward within the proposed independent ethical oversight framework?&#13; &#13; <b>How can we ensure the oversight body is truly independent?</b> Ensure diverse funding sources not reliant on government appropriations, establish a multi-stakeholder board with representatives from civil society, academia, and international anti-corruption organizations, and implement robust conflict-of-interest regulations for board members and staff. Additionally, define clear, independent appointment processes for oversight body leadership, perhaps involving judicial or parliamentary supermajority votes..",
+                                            "id": "E-1TUHTUZ-9",
+                                            "author": "NIL"
+                                        },
+                                        {
+                                            "type": "IDEA",
+                                            "subtype": "QUESTION",
+                                            "name": "How can we ensure the oversight body is truly independent?",
+                                            "description": "While an independent ethical oversight body is proposed, how can we guarantee its genuine independence from political influence and ensure it is not compromised by the very systems it is meant to scrutinize?&#13; &#13; <b>How can we ensure the oversight body is truly independent?</b> Ensure diverse funding sources not reliant on government appropriations, establish a multi-stakeholder board with representatives from civil society, academia, and international anti-corruption organizations, and implement robust conflict-of-interest regulations for board members and staff. Additionally, define clear, independent appointment processes for oversight body leadership, perhaps involving judicial or parliamentary supermajority votes..",
+                                            "id": "E-1TUHTUZ-8",
+                                            "author": "NIL"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "IDEA",
+            "subtype": "ROLE",
+            "name": "French Citizens (consumers)",
+            "description": "French citizens are the ultimate beneficiaries and end-users of the electricity provided by EDF. Their lived experience and economic well-being are directly impacted by the security, affordability, and environmental consequences of EDF's energy strategy.",
+            "id": "E-1TUHTUZ-19",
+            "author": "NIL"
+        },
+        {
+            "type": "IDEA",
+            "subtype": "ROLE",
+            "name": "French Government (majority owner and regulator)",
+            "description": "The French Government, as the majority shareholder and primary regulator of EDF, has a vested interest in the company's strategic direction. Their involvement is critical as they hold significant financial stake and are responsible for setting the regulatory framework within which EDF operates, impacting energy policy and market conditions.",
+            "id": "E-1TUHTUZ-18",
+            "author": "NIL"
+        },
+        {
+            "type": "IDEA",
+            "subtype": "ROLE",
+            "name": "Energy Technology Providers",
+            "description": "These are companies and organizations that develop, manufacture, and supply the technologies essential for electricity generation, transmission, and storage. Their involvement is crucial for implementing any future energy strategy, as they offer the innovative solutions needed to achieve EDF's goals.",
+            "id": "E-1TUHTUZ-17",
+            "author": "NIL"
+        }
+    ]
+}
